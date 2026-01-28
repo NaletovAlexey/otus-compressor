@@ -15,6 +15,7 @@ public class Main
 {
     public static void main(String[] args)
     {
+        // test compress/decompress algorithm
         System.out.println("Program to compress/decompress files!");
         String fileName = "D:\\alexey\\programs\\java\\algoritms\\programming\\compressor\\files_to_compress\\"
                 + "demo_1.txt";
